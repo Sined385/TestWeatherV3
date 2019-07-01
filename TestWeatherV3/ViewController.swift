@@ -1,0 +1,20 @@
+//
+//  ViewController.swift
+//  TestWeatherV3
+//
+//  Created by Денис Ефремов on 7/1/19.
+//  Copyright © 2019 Денис Ефремов. All rights reserved.
+//
+
+import UIKit
+
+class ViewController: UIViewController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        // Do any additional setup after loading the view.
+    }
+
+
+}
+
